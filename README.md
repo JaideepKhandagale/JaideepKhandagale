@@ -39,12 +39,17 @@
 
 ### 🌐 Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,typescript" />
 </p>
 
 ### 📊 Data & AI
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🎨 UI/UX
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -157,7 +162,7 @@ This tool **instantly explains the project, structure, and purpose**, saving hou
 
 ### LeetCode Stats
 <p align="center">
-    <img src="https://leetcard.jacoblin.cool/JaideepKhandagale?theme=dark&font=Baloo&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/4fD2KiI4AO?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 ---
