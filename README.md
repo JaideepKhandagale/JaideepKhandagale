@@ -155,10 +155,9 @@ This tool **instantly explains the project, structure, and purpose**, saving hou
 
 ## 📊 Coding Profiles & Stats
 
+### LeetCode Stats
 <p align="center">
-  <a href="https://leetcode.com/your-username">
-    <img src="https://leetcard.jacoblin.cool/4fD2KiI4AO?theme=dark&font=Baloo&ext=heatmap" />
-  </a>
+    <img src="https://leetcard.jacoblin.cool/JaideepKhandagale?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 ---
